@@ -3,7 +3,7 @@
 
 ## Description
 
-A comparison of five different supervised machine learning algorithms across three datasets. Each algorithm was tested and cross validated with a range of different parameters using varying training and testing splits. For a detailed post analysis, please refer to the accompaniment [paper]().
+A comparison of five different supervised machine learning algorithms across three datasets. Each algorithm was tested and cross validated with a range of different parameters using varying training and testing splits. For a detailed post analysis, please refer to the accompaniment [paper](https://github.com/c-h-b-chen/algoComp/blob/master/Classification%20Comparisons%20of%20Supervised%20Learning%20Algorithms.pdf).
 
 ## Datasets
 
